@@ -22,7 +22,7 @@ Press `prefix + I` to fetch the plugin and source it. Done.
 Clone the repo somewhere. Add `run-shell` in the end of `.tmux.conf`:
 
 ```
-run-shell PATH_TO_REPO/tmux-nm.tmux
+run-shell PATH_TO_REPO/tmux-mount.tmux
 ```
 
 Resource the file (or restart Tmux).
