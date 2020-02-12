@@ -1,4 +1,4 @@
-# TMUX Plugin for Network Manager
+# TMUX Plugin for mounting device with `udisksctl`
 
 Shows a menu for handling mount/unmount disk with `udisksctl`.
 
